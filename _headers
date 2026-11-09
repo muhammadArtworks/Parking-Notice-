@@ -1,0 +1,4 @@
+/apple-touch-icon*.png
+  Cache-Control: public, max-age=300
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
